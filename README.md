@@ -1,3 +1,4 @@
+```
 Nume:    Rosu
 Prenume: Gabriel - David
 Grupa:   331CC
@@ -19,3 +20,4 @@ cu bila si inserarea in scena a mai multor caramizi).
 
     Numarul de vieti ramase este: numarul de vieti care apar in coltul ecranului
 + viata curenta.
+```
